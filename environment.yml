@@ -17,6 +17,7 @@ dependencies:
   - metpy
   - scipy
   - geopandas
+  - streamlit
   - pip
   - pip:
       - sphinx-pythia-theme
