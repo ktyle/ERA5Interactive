@@ -16,6 +16,7 @@ dependencies:
   - pathlib
   - metpy
   - scipy
+  - geopandas
   - pip
   - pip:
       - sphinx-pythia-theme
